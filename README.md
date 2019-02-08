@@ -1,3 +1,6 @@
+Welcome to the new Development repo of Hilux Android Wallet. We give credit to the people who had put in time and effort in developing the android wallet and is based on the fork below:
+
+
 Welcome to _Bitcoin Wallet_, a standalone Bitcoin payment app for your Android device!
 
 This project contains several sub-projects:
